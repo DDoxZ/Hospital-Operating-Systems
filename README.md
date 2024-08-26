@@ -20,16 +20,6 @@ This aims to get students familiar with the C language and POSIX.
  - signals
 
 ---
-## Operations
-The CLi program contains the following operations:<br>
-1. ```add pacient doctor``` - does the admission in the hospital indicating that the pacient wants to schedule an appointment with the doctor
-2. ```info id``` - check the status of the admission with a specific id
-3. ```status``` - checking the status of the data buffer that stores all of the data needed for the program
-4. ```help``` - shows aditional information on these operations
-5. ```end``` - ends the execution of the program
-
-
----
 ## Directories
 
 The hOSpital project is divided into these directories:
@@ -55,3 +45,11 @@ make
 ./bin/hOSpital config.txt
 ```
 
+---
+## Operations
+The CLi program contains the following operations:<br>
+1. ```add pacient doctor``` - does the admission in the hospital indicating that the pacient wants to schedule an appointment with the doctor
+2. ```info id``` - check the status of the admission with a specific id
+3. ```status``` - checking the status of the data buffer that stores all of the data needed for the program
+4. ```help``` - shows aditional information on these operations
+5. ```end``` - ends the execution of the program
