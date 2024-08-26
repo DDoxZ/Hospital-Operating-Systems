@@ -42,16 +42,16 @@ The hOSpital project is divided into these directories:
 ## Compilation
 
 ```bash
-   make clean
+make clean
 ```
 ```bash
-   make
+make
 ```
 
 ---
 ## Execution
 
 ```bash
-   ./bin/hOSpital config.txt
+./bin/hOSpital config.txt
 ```
 
