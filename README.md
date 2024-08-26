@@ -1,6 +1,5 @@
 # Operating Systems Project
 
-## Identificação
 **This Project was made in collaboration with two other classmates:**<br>
 Daniela Camarinha 58199 <br>
 Diogo Lopes 60447<br>
